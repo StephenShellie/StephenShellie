@@ -1,16 +1,12 @@
-## Hi there 👋
+<h1>Hi, I'm Stephen, an IT Professional :grin:
 
-<!--
-**StephenShellie/StephenShellie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>:technologist: Information Technology Projects:</h2>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/StephenShellie/ticket-lifecycle)
+  - [osTicket: Post-Installation Configuration](https://github.com/StephenShellie/post-install-config)
+  - [osTicket: Prerequisites and Installation](https://github.com/StephenShellie/osticket-prereqs)
+ 
+- <b>Microsoft Azure</b>
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/StephenShellie/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/StephenShellie/azure-network-protocols)
