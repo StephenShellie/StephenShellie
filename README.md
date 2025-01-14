@@ -12,3 +12,4 @@
   -  [Configuring On-premises Active Directory within Azure VMs](https://github.com/StephenShellie/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/StephenShellie/azure-network-protocols)
   - [DNS Management and Practicies](https://github.com/StephenShellie/dns-lab)
+  - [Network Shares and File Permissions](https://github.com/StephenShellie/network-file-share)
